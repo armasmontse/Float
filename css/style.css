@@ -1,0 +1,23 @@
+.caja{
+	height:100px; 
+	width:25%;
+	border: 1px solid;
+	float:left;
+}
+.grande{
+	width: 700px;
+	border: 2px	solid black;
+}
+.amarillo{
+	background-color: #E5FF00;
+	border: #E5FF00;
+}
+.azul{
+	background-color: #00308F; 
+	border: #00308F;
+}
+.rojo{
+	background-color: #EE1515;
+	border: #EE1515;
+}
+.clearfix:before
